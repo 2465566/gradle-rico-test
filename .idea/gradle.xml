@@ -3,6 +3,21 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../amery_base_java/rabbitmq" />
+        <option name="gradleHome" value="$USER_HOME$/gradle-3.5" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../amery_base_java" />
+            <option value="$PROJECT_DIR$/../amery_base_java/ahan" />
+            <option value="$PROJECT_DIR$/../amery_base_java/kafka" />
+            <option value="$PROJECT_DIR$/../amery_base_java/otherVersion" />
+            <option value="$PROJECT_DIR$/../amery_base_java/rabbitmq" />
+            <option value="$PROJECT_DIR$/../amery_base_java/scala" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="createEmptyContentRootDirectories" value="true" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -11,6 +26,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Gradle_learning" />
+            <option value="$PROJECT_DIR$/kafka" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

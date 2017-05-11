@@ -19,9 +19,25 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="ahan_main" target="1.8" />
+      <module name="ahan_test" target="1.8" />
+      <module name="amery_base_java_main" target="1.8" />
+      <module name="amery_base_java_test" target="1.8" />
+      <module name="Gradle_learning" target="1.5" />
       <module name="java-project_api" target="1.6" />
       <module name="java-project_main" target="1.6" />
       <module name="java-project_test" target="1.6" />
+      <module name="kafka_main" target="1.8" />
+      <module name="kafka_test" target="1.8" />
+      <module name="otherVersion" target="1.5" />
+      <module name="otherVersion_main" target="1.5" />
+      <module name="otherVersion_test" target="1.5" />
+      <module name="rabbitmq_main" target="1.8" />
+      <module name="rabbitmq_test" target="1.8" />
+      <module name="rico" target="1.5" />
+      <module name="scala" target="1.5" />
+      <module name="scala_main" target="1.5" />
+      <module name="scala_test" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

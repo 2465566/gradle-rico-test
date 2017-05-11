@@ -3,7 +3,25 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Gradle_learning/Gradle_learning.iml" filepath="$PROJECT_DIR$/.idea/modules/Gradle_learning/Gradle_learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/958979706/ahan.iml" filepath="$PROJECT_DIR$/.idea/modules/958979706/ahan.iml" group="ahan" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/958979706/ahan_main.iml" filepath="$PROJECT_DIR$/.idea/modules/958979706/ahan_main.iml" group="ahan" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/958979706/ahan_test.iml" filepath="$PROJECT_DIR$/.idea/modules/958979706/ahan_test.iml" group="ahan" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-395725207/amery_base_java.iml" filepath="$PROJECT_DIR$/.idea/modules/-395725207/amery_base_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-395725207/amery_base_java_main.iml" filepath="$PROJECT_DIR$/.idea/modules/-395725207/amery_base_java_main.iml" group="amery_base_java" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-395725207/amery_base_java_test.iml" filepath="$PROJECT_DIR$/.idea/modules/-395725207/amery_base_java_test.iml" group="amery_base_java" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka/kafka.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka/kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-327368704/kafka_main.iml" filepath="$PROJECT_DIR$/.idea/modules/-327368704/kafka_main.iml" group="kafka" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-327368704/kafka_test.iml" filepath="$PROJECT_DIR$/.idea/modules/-327368704/kafka_test.iml" group="kafka" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-951289426/otherVersion.iml" filepath="$PROJECT_DIR$/.idea/modules/-951289426/otherVersion.iml" group="otherVersion" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-951289426/otherVersion_main.iml" filepath="$PROJECT_DIR$/.idea/modules/-951289426/otherVersion_main.iml" group="otherVersion" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-951289426/otherVersion_test.iml" filepath="$PROJECT_DIR$/.idea/modules/-951289426/otherVersion_test.iml" group="otherVersion" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rabbitmq.iml" filepath="$PROJECT_DIR$/.idea/modules/rabbitmq.iml" group="rabbitmq" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rabbitmq_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rabbitmq_main.iml" group="rabbitmq" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rabbitmq_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rabbitmq_test.iml" group="rabbitmq" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/rico.iml" filepath="$PROJECT_DIR$/.idea/modules/rico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-319925728/scala.iml" filepath="$PROJECT_DIR$/.idea/modules/-319925728/scala.iml" group="scala" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-319925728/scala_main.iml" filepath="$PROJECT_DIR$/.idea/modules/-319925728/scala_main.iml" group="scala" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-319925728/scala_test.iml" filepath="$PROJECT_DIR$/.idea/modules/-319925728/scala_test.iml" group="scala" />
     </modules>
   </component>
 </project>

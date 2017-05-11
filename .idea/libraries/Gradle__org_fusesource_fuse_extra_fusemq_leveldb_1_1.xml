@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.fusesource.fuse-extra:fusemq-leveldb:1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.fusesource.fuse-extra/fusemq-leveldb/1.1/7607a6900f8b23b6d70642e61bf07585dc3e5a48/fusemq-leveldb-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.fusesource.fuse-extra/fusemq-leveldb/1.1/200e781320003341dd5e8c9d3ce731b238f891b0/fusemq-leveldb-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

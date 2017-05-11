@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.iq80.leveldb:leveldb-api:0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.iq80.leveldb/leveldb-api/0.2/54523481df55da0ccd4293d43ec1f9a7c371ca6e/leveldb-api-0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.iq80.leveldb/leveldb-api/0.2/efaf3bf1ce746719fe8017f5675696d87dda9c6f/leveldb-api-0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

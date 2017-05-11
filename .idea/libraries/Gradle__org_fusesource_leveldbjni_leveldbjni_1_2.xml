@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.fusesource.leveldbjni:leveldbjni:1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.fusesource.leveldbjni/leveldbjni/1.2/d8d1fc56693ee50c8b0723656d9e298360cb9855/leveldbjni-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.fusesource.leveldbjni/leveldbjni/1.2/9b4dbbc46f595534a9b2215a7fe312c6cec03da2/leveldbjni-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

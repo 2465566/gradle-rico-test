@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springmodules:spring-modules-validation:0.8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springmodules/spring-modules-validation/0.8/c051e2e67347a304817ac0d039a89ad1cfdadf24/spring-modules-validation-0.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springmodules/spring-modules-validation/0.8/be94036bfa401c59e3b67a99011539109b5834f6/spring-modules-validation-0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

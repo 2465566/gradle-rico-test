@@ -1,3 +1,4 @@
 rootProject.name = 'rico'
 include 'Gradle_learning'
+include 'kafka'
 

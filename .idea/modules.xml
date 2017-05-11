@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Gradle_learning/Gradle_learning.iml" filepath="$PROJECT_DIR$/.idea/modules/Gradle_learning/Gradle_learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-project.iml" filepath="$PROJECT_DIR$/.idea/modules/java-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-project_api.iml" filepath="$PROJECT_DIR$/.idea/modules/java-project_api.iml" group="java-project" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-project_main.iml" filepath="$PROJECT_DIR$/.idea/modules/java-project_main.iml" group="java-project" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-project_test.iml" filepath="$PROJECT_DIR$/.idea/modules/java-project_test.iml" group="java-project" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rico.iml" filepath="$PROJECT_DIR$/.idea/modules/rico.iml" />
+    </modules>
+  </component>
+</project>

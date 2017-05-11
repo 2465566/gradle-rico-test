@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.projectreactor:reactor-logback:2.0.3.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-logback/2.0.3.RELEASE/1df72176f71118ccda1520b4f5b5933d5f82f5a1/reactor-logback-2.0.3.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-logback/2.0.3.RELEASE/7d3fba9bae7547f0d693b17c204a1bbdea0df919/reactor-logback-2.0.3.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: me.moocar:logback-gelf:0.12">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.moocar/logback-gelf/0.12/7d88b92d0013e585ae5e3f7dd79f5c9fbdca1b76/logback-gelf-0.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.moocar/logback-gelf/0.12/3dc19b0116acf15b7c4818087babf1155ca7e48f/logback-gelf-0.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

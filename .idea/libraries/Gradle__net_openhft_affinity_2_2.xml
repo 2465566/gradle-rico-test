@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.openhft:affinity:2.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.openhft/affinity/2.2/8abd6d1d76202aa823c2d0d834f2059b1ea0192f/affinity-2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.openhft/affinity/2.2/f46109ddb076d81c5d40098cadb4619e07dfa80a/affinity-2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

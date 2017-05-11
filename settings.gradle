@@ -1,0 +1,3 @@
+rootProject.name = 'rico'
+include 'Gradle_learning'
+

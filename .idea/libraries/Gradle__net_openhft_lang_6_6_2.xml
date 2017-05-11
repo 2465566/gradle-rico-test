@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.openhft:lang:6.6.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.openhft/lang/6.6.2/5f28c524cabb357b3859558b5fa882141164929c/lang-6.6.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.openhft/lang/6.6.2/fc2214c08fde8c5bcc151a85bedd5586313bc6c7/lang-6.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
